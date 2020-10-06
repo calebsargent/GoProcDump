@@ -1,5 +1,5 @@
 # GoProcDump
-Golng version of SharpDump that can be used to extract LSASS or any other proces. Uses the WIN32 API and provides token elevation prior to creating dump of high intergrity processes.
+Golng version of SharpDump that can be used to extract LSASS or any other proces. Uses the WIN32 API via MiniDumpWriteDump and provides token elevation prior to creating dump of high intergrity processes.
 
 # Usage
 ```
