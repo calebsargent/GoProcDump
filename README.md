@@ -9,7 +9,8 @@ Usage of GoProcDump.exe:
   -p    PID to extract
   ```
   # Requires
-  Finding the LSASS process by name requires the following project:
+  Finding the LSASS process by name requires the following project.
   ```
+  To Install:
   go get github.com/mitchellh/go-ps
   ```
